@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title id="title">Martin Luther King Jr.</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main id="main">
+<figure id="img-div">
+<img id="image" src="https://media.defense.gov/2014/Jan/14/2000883878/2000/2000/0/140114-F-ZZ999-001.JPG" alt="Martin Luther King Jr.">
+<figcaption id="img-caption">Martin Luther King Jr., leader of the civil rights movement.</figcaption>
+</figure>
+
+
+<h1 id="tribute-info">Martin Luther King Jr. was an American civil rights leader best known for advancing justice through nonviolent activism and inspiring millions with his "I Have a Dream" speech.</h1>
+
+
+<a id="tribute-link" href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." target="_blank">Learn more about him here</a>
+</main>
+</body>
+</html>
